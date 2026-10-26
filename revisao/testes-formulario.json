@@ -1,0 +1,7 @@
+{
+  "desktopCompose": true,
+  "mobileComposeAndFallback": true,
+  "honeypotBlocked": true,
+  "invalidFormBlocked": true,
+  "realMessagesSent": 0
+}

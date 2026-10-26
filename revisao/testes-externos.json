@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://home.registrocivil.org.br/",
+    "error": "fetch failed"
+  },
+  {
+    "url": "https://justicaaberta.cnj.jus.br/",
+    "status": 200,
+    "final": "https://justicaaberta.cnj.jus.br/"
+  },
+  {
+    "url": "https://www.instagram.com/cartoriodoarruda/",
+    "status": 200,
+    "final": "https://www.instagram.com/cartoriodoarruda/"
+  }
+]

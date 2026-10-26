@@ -1,0 +1,44 @@
+[
+  {
+    "uso": "Texto principal",
+    "frente": "#473b31",
+    "fundo": "#fbf7ef",
+    "contraste": 10.14
+  },
+  {
+    "uso": "Texto secundário em branco",
+    "frente": "#6c5b4c",
+    "fundo": "#ffffff",
+    "contraste": 6.48
+  },
+  {
+    "uso": "Texto secundário em creme",
+    "frente": "#6c5b4c",
+    "fundo": "#f3e9d9",
+    "contraste": 5.39
+  },
+  {
+    "uso": "Ação em branco",
+    "frente": "#88531d",
+    "fundo": "#ffffff",
+    "contraste": 6.36
+  },
+  {
+    "uso": "Ação em creme",
+    "frente": "#88531d",
+    "fundo": "#f3e9d9",
+    "contraste": 5.29
+  },
+  {
+    "uso": "Borda de campo",
+    "frente": "#8e7761",
+    "fundo": "#fbf7ef",
+    "contraste": 3.96
+  },
+  {
+    "uso": "Legenda clara em marrom",
+    "frente": "#e5bd87",
+    "fundo": "#382416",
+    "contraste": 8.35
+  }
+]
